@@ -1,0 +1,14 @@
+.main-header {
+    min-height: 5rem;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-ul {
+    list-style: none;
+}
+
+.a {
+    cursor: pointer;
+}
